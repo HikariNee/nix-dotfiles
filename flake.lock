@@ -8,11 +8,11 @@
         "nixpkgs-stable": "nixpkgs-stable"
       },
       "locked": {
-        "lastModified": 1751940880,
-        "narHash": "sha256-lzPU5X3b8w68mUsGHgkRDOJ1DK+gzfov91vsBx2dsAM=",
+        "lastModified": 1752027847,
+        "narHash": "sha256-v+WdGcG0ra7YIyI2HruIYqWWxSXBEaG8UStzjAmkkHk=",
         "owner": "nix-community",
         "repo": "emacs-overlay",
-        "rev": "82937ee6d83abf5a9a5a8ae05329c37c0e9380cf",
+        "rev": "5a64a848253e773d14dffe72e95bf302932e6d02",
         "type": "github"
       },
       "original": {
@@ -137,11 +137,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1748535436,
-        "narHash": "sha256-XkLeipQ8EYIWTmzRH3QhIa1AADQz8rYOJWmA7x0dlLw=",
+        "lastModified": 1751993724,
+        "narHash": "sha256-h/UJQnF/ZFiFY1Nm/4WqsXDEjQPZ+XkaCvjVtkFKThI=",
         "owner": "areif-dev",
         "repo": "river-bsp-layout",
-        "rev": "008e1b118d5e8752345dea780d1b645c4a8619aa",
+        "rev": "3220630657b1afe4476a7ffd75e8f56f5a2255a5",
         "type": "github"
       },
       "original": {
@@ -179,11 +179,11 @@
     },
     "wrapper-manager": {
       "locked": {
-        "lastModified": 1750605920,
-        "narHash": "sha256-H7aKzVWtX2Efp8DwCuMrZex+IiXII2/PF5rO+Mu5oYU=",
+        "lastModified": 1751998186,
+        "narHash": "sha256-np2RxS8tRz/jGfUSYKxzg7cCi4dS8PL8gutLZfPMbIY=",
         "owner": "ViperML",
         "repo": "wrapper-manager",
-        "rev": "238d49c10383cd1db56d694bff9d573684c71526",
+        "rev": "8ad2484b485acad0632cb0af15b5eb704e3c1d0a",
         "type": "github"
       },
       "original": {
